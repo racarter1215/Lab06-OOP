@@ -4,7 +4,7 @@
 
 ### Description
 
-##### This is a C# console application that will utilize allow the user to see a variety of actions take place and be allowed to interact with such actions by inputing valid numbers as they are prompted. These include finding averages, mulitplying numbers, finding the largest number, and others.
+##### This is a C# console application that will utilize UML to plan an application that will incorporate both Inheritance and Abstraction. There are several abstract and concrete objects that are tied together utilizing inheritance, with values being shared due to abstraction. 
 
 #### Getting started
 
@@ -20,7 +20,7 @@
 ##### Select the Program.cs document
 
 ### Application WhiteBoard
-![App Image 1](../assets/whiteboard.png)
+![App Image 1](./assets/Lab06Whiteboard.png)
 
 
 #### Change Log
